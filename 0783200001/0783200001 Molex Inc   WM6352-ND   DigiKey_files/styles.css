@@ -1,0 +1,370 @@
+/* GLOBAL */
+
+body, span, div, p, pre, blockquote, a, b, ol, ul, dl, li, dt, dd, th, td, table, input, select, option, h1, h2, h3, h4, h5, h6, code {
+	font-size: 12px;
+}
+
+h1 {
+	font-size: 18px;
+}
+
+h2 {
+	font-size: 14px;
+}
+
+body {
+	margin: 0px;
+	background: white;
+}
+
+div#content {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+div.weaz {
+	width: 660px;
+}
+
+.alert {
+	color: red;
+}	
+
+/* SEO - USA ONLY */
+
+#seotable 
+{
+	color: #A9A9A9;
+	font-size: 9px;
+	margin-bottom: 10px;
+}
+
+#seotable td
+{
+	color: #A9A9A9;
+	font-size: 9px;
+}
+#seotable a 
+{
+	color: #A9A9A9;
+	font-size: 9px;
+	text-decoration:underline;
+}
+
+#seotable a:link
+{
+	color: #A9A9A9;
+	font-size: 9px;
+	text-decoration:underline;
+}
+
+#seotable a:visited
+{
+	color: #A9A9A9;
+	font-size: 9px;
+	text-decoration:underline;
+}
+
+#seotable a:hover
+{
+	color: #A9A9A9;
+	font-size: 9px;
+	text-decoration:underline;
+}
+#seotable a:active
+{
+	color: #A9A9A9;
+	font-size: 9px;
+	text-decoration:underline;
+}
+#seotable a:focus
+{
+	color: #A9A9A9;
+	font-size: 9px;
+	text-decoration:underline;
+}
+
+#footer_main 
+{
+	background: #000000;
+	color: #FFFFFF;
+	font-size: 10px;
+}
+
+#footer_main td
+{
+	background: #000000;
+	color: #FFFFFF;
+	font-size: 11px;
+}
+
+		
+#footer_main a
+{
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 11px;;
+}
+
+a.footer_main:link 
+{
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 11px;
+}
+
+a.footer_main:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 11px;
+}
+
+a.footer_main:hover {
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 11px;
+}
+
+a.footer_main:focus {
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 11px;
+}
+
+a.footer_main:active {
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 11px;
+}
+
+
+/* HEADER */
+
+td.headercell {
+	background: black;
+	color: white;
+	font-family: verdana, arial, sans-serif;
+	font-weight: bold;
+	font-size: 11px;
+	text-decoration:none;
+	white-space: pre;
+}
+
+td.headertopcell {
+	background: black url(http://dkc3.digikey.com/US/images/TopStretch.gif) repeat-x left bottom;
+	color: white;
+	font-family: verdana, arial, sans-serif;
+	font-weight: bold;
+	font-size: 11px;
+	text-decoration:none;
+	white-space: pre;
+}
+
+a.headeranchor {
+	background: black;
+	color: white;
+	font-family: verdana, arial, sans-serif;
+	font-weight: bold;
+	font-size: 11px;
+	text-decoration:none;
+	white-space: pre;
+}
+
+a.headeranchor:link { color: white; }
+a.headeranchor:visited { color: white; }
+a.headeranchor:active { color: white; }
+
+/* FOOTER */
+
+td.footercell {
+	background: black;
+	color: white;
+	font-family: verdana, arial, sans-serif;
+	font-weight: bold;
+	font-size: 11px;
+	text-decoration:none;
+	white-space: pre;
+}
+
+a.footeranchor {
+	background: black;
+	color: white;
+	font-family: verdana, arial, sans-serif;
+	font-weight: bold;
+	font-size: 11px;
+	text-decoration:none;
+	white-space: pre;
+}
+
+a.footeranchor:link { color: white; }
+a.footeranchor:visited { color: white; }
+a.footeranchor:active { color: white; }
+
+/* OTHER */
+
+tr.evenrow {
+	background: #F0F0F0;
+}
+
+input.button {
+	background: #F0F0F0;
+}
+
+table.border {
+	border: 1.5pt solid #F0F0F0;
+}
+
+th.tablehead {
+	background: #F0F0F0;
+}
+
+th.groupheader {
+	background: #F0F0F0;
+	font-size: medium;
+}
+
+a.attributename {
+	color: black;
+	font-weight: bold;
+	text-decoration:none;
+}
+
+td.comparerow {
+	background: #F0F0F0;
+}
+
+/* INTERNET CATALOG */
+
+a.CatIpg:link {
+	color: #003399;
+	text-decoration: none;
+	font-weight: 500;
+}
+
+a.CatIpg:visited {
+	color: #CC0000;
+	text-decoration: none;
+	font-weight: 500;
+}
+
+a.CatIpg:hover {
+	color: #FF0000;
+	text-decoration: underline;
+	font-weight: 500
+}
+
+a.CatIpg:active {
+	color: #003399;
+	text-decoration: none;
+	font-weight: 500
+}
+
+/* TABLE DISPLAY */
+
+table.tblborder 
+{
+	border-bottom: solid 1.5px #C0C0C0;
+	border-left: solid 1.5px #C0C0C0;
+}
+
+table.tbladdressformat
+{
+	border-bottom: solid 1.5px #C0C0C0;
+	border-left: solid 1.5px #C0C0C0;
+	height: 10em;
+}
+
+table.tblshippingmethodformat
+{
+	border-bottom: solid 1.5px #C0C0C0;
+	border-left: solid 1.5px #C0C0C0;
+	width: 40em;
+}
+
+table.tblrumenucolumn
+{
+	border-bottom: solid 1.5px #C0C0C0;
+	border-left: solid 1.5px #C0C0C0;
+	width: 250px;
+	height: 10em;
+}
+
+th.tbltablehead
+{
+	background: #F0F0F0;
+	border-right: solid 1.5px #C0C0C0;
+	border-top: solid 1.5px #C0C0C0;
+	padding-right: 12px;
+	padding-left: 12px;
+}
+
+th.tbltableheadred
+{
+	background: #FF0000;
+	border-right: solid 1.5px #C0C0C0;
+	border-top: solid 1.5px #C0C0C0;
+}
+
+th.tbltableheadwhite
+{
+	background: #FFFFFF;
+	border-right: solid 1.5px #C0C0C0;
+	border-top: solid 1.5px #C0C0C0;
+}
+
+td.tblborder
+{
+	border-right: solid 1.5px #C0C0C0;
+	border-top: solid 1.5px #C0C0C0;
+	padding-right: 12px;
+	padding-left: 12px;
+}
+
+tr.tblevenrow
+{
+	background: #F0F0F0;
+	border-right: solid 1.5px #C0C0C0;
+}
+
+tr.tbloddrow
+{
+	background: #FFFFFF;
+	border-right: solid 1.5px #C0C0C0;
+}
+
+
+/* partsearch */
+
+.catfiltertopitem { font: large bold; text-decoration: none;  font-family:Arial,Helvetica,sans-serif; }
+.catfiltertopitem > a { font: large bold; text-decoration: none; font-family:Arial,Helvetica,sans-serif; }
+.catfiltertopitem > :link { color: black; }
+.catfiltertopitem > :visited { color: black; }
+.seohtag { font-size: small; margin: 0; font-weight: normal; }
+.seohtagbold { font-size: small; margin: 0; font-weight: bold; }
+/*.catfiltersub { font-weight: bold; }*/
+.catfilterlink { font-weight: normal; }
+.sectiontitle { font-weight: bold; font-size: larger; background: #E0E0E0; }
+.beablock { border: solid black 1px; margin-bottom: 1em; padding: .5em; background: url(http://dkc3.digikey.com/us/images/dkms_blue_gradient.jpg) repeat-x bottom; }
+.beablocktitle { font-weight: bold; }
+.relatedpartslist { list-style: inside; margin: 0; padding: .5em; }
+list.relatedparts { list-style: inside; margin: 0; padding: .5em; }
+.qtynote { color: red; }
+.altpkglink { color: blue; }
+a.lnkPtm {color: red; font-weight: bold; }
+.roundCorners {border:solid 1px black;padding:1em;-moz-border-radius:20px;-webkit-border-radius:20px;-khtml-border-radius:20px;border-radius:20px;}
+.digiGray {background:#E0E0E0;}
+
+#mask {
+    position: absolute;
+    background-color: black;
+    top: 0px;
+    left: 0px;
+    display: none;
+    width: 3200px;
+    height: 3200px;
+    opacity: 0.8;
+    -moz-opacity: 0.8;
+    filter: alpha(opacity=80);
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+    z-index: 10000;
+}

@@ -1,0 +1,59 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 22/10/2014 13:57:30
+
+BeginCmp
+TimeStamp = /53E0E90C;
+Reference = CN2;
+ValeurCmp = USATA;
+IdModule  = uSATA;
+EndCmp
+
+BeginCmp
+TimeStamp = /54462EF2;
+Reference = P1;
+ValeurCmp = CONN_1;
+IdModule  = smd_usata;
+EndCmp
+
+BeginCmp
+TimeStamp = /54462F8B;
+Reference = P2;
+ValeurCmp = CONN_1;
+IdModule  = smd_usata;
+EndCmp
+
+BeginCmp
+TimeStamp = /54462F91;
+Reference = P3;
+ValeurCmp = CONN_1;
+IdModule  = smd_usata;
+EndCmp
+
+BeginCmp
+TimeStamp = /54462F97;
+Reference = P4;
+ValeurCmp = CONN_1;
+IdModule  = smd_usata;
+EndCmp
+
+BeginCmp
+TimeStamp = /54462F9D;
+Reference = P5;
+ValeurCmp = CONN_1;
+IdModule  = smd_usata;
+EndCmp
+
+BeginCmp
+TimeStamp = /54462FA3;
+Reference = P6;
+ValeurCmp = CONN_1;
+IdModule  = smd_usata;
+EndCmp
+
+BeginCmp
+TimeStamp = /54462FA9;
+Reference = P7;
+ValeurCmp = CONN_1;
+IdModule  = smd_usata;
+EndCmp
+
+EndListe

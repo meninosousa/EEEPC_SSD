@@ -1,0 +1,70 @@
+/*
+* GLOBAL STUFF
+*/
+body, span, div, p, pre, blockquote, a, b, ol, ul, dl, li, dt, dd, th, td, table, input, select, option, h1, h2, h3, h4, h5, h6, code {
+	font-family: Arial, Serif;
+	font-size: 9pt;
+}
+h1 {
+	font-size: 12pt;
+}
+h2 {
+	font-size: 11pt;
+}
+h3 {
+	font-size: 10pt;
+}
+body {
+	color: black;
+	background: white;
+}
+div#noprint {
+	display: none;
+}
+div#printheader {
+	display: inline;
+}
+div#content {
+	left: 0;
+	top: 0;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	float: none !important;
+	width: auto;
+}
+
+/*
+* LINKS AND FOOTER STUFF
+*/
+a:link, a:visited, a.footeranchor:link, a.footeranchor:visited {
+	color: #520;
+	background: transparent;
+	font-weight: bold;
+	text-decoration: underline;
+}
+/* overwrite footer values */
+td.footercell, a.footeranchor {
+	background: white;
+	color: black;
+	font-family: Arial, Serif;
+	font-size: 9pt;
+	font-weight: normal;
+}
+
+/* SEO - USA ONLY */
+
+#seotable
+{
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
