@@ -10,6 +10,7 @@ LIBS:cmos4000
 LIBS:adc-dac
 LIBS:memory
 LIBS:xilinx
+LIBS:special
 LIBS:microcontrollers
 LIBS:dsp
 LIBS:microchip
@@ -30,7 +31,7 @@ LIBS:contrib
 LIBS:valves
 LIBS:myLib
 LIBS:uSATAboard-cache
-EELAYER 25 0
+EELAYER 27 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -45,10 +46,10 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L USATA CN1
+L USATA CN2
 U 1 1 53E0E90C
 P 6800 2800
-F 0 "CN1" H 6800 2700 60  0000 C CNN
+F 0 "CN2" H 6800 2700 60  0000 C CNN
 F 1 "USATA" H 6800 2800 60  0000 C CNN
 F 2 "" H 6800 2800 60  0000 C CNN
 F 3 "" H 6800 2800 60  0000 C CNN
